@@ -15,4 +15,8 @@ divisoresNumero -> Um programa que retorna os divisores de um número e indica s
 
 maior_menor_numeros -> Recebe uma lista de números e, ao final, retorna qual foi o maior e qual foi o menor dos números.
 
+banco -> Um programa que simula uma aplicação bancaria, permitindo o deposito, retirada e visualização de dinheiro, além de uma opção para sair.
+
+
+
 
