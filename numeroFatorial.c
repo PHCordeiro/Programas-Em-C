@@ -1,15 +1,29 @@
 #include <stdio.h>
 
-int main(){
-    float numeroDigitado, fatorialDoNumeroDigitado = 1, contador = 1;
-    printf("Digite um numero: ");
-    scanf("%f", &numeroDigitado);
-
-    while(contador <= numeroDigitado){
-        fatorialDoNumeroDigitado = fatorialDoNumeroDigitado * contador;
-        contador++;
+int fatorialDoNumero(int numero){
+    int contador, numeroFinal = numero;
+    if(numero < 0){
+        printf("-1");
+    }
+    else{
+        if(numero == 0){
+            printf("1");
+        }
+        else{
+            for(contador = 1; contador < numero; contador++){
+                numeroFinal = numeroFinal * contador;
+            }
+            printf("Fatorial: %d", numeroFinal);
+        }
     }
 
-    printf("Esse e o fatorial do numero: %f\n", fatorialDoNumeroDigitado);
+}
+
+int main(){
+    int numero;
+    printf("Digite um numero: ");
+    scanf("%d", &numero);
+    fatorialDoNumero(numero);
+    
     return 0;
 }
