@@ -19,6 +19,8 @@ banco -> Um programa que simula uma aplicação bancaria, permitindo o deposito,
 
 areas -> Permite o usuário escolher qual área calcular ao por certas medidas.
 
+pessoas -> Um programa que trabalha com Vetores para pegar o nome e o sexo de certa quantidade de pessoas.
+
 
 
 
