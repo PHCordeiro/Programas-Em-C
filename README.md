@@ -21,6 +21,7 @@ areas -> Permite o usuário escolher qual área calcular ao por certas medidas.
 
 pessoas -> Um programa que trabalha com Vetores para pegar o nome e o sexo de certa quantidade de pessoas.
 
+menorPalavra -> Recebe duas palavras e retorna a menor.
 
 
 
