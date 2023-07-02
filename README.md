@@ -31,4 +31,7 @@ produtos -> Um programa que cria um vetor para os preços de vários produtos e 
 
 pessoasPorSexo -> Um programa que usa Struct para guardar as informações das pessoas e no final retorna todas as mulheres e todos os homens.
 
+numeroPerfeito -> Uma função que recebe um número e diz se ele é perfeito ou não.
+
+
 
