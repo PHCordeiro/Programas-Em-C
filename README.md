@@ -35,6 +35,8 @@ numeroPerfeito -> Uma função que recebe um número e diz se ele é perfeito ou
 
 numerosNegativos -> Uma função que recebe um vetor e diz quantos números negativos estão nele.
 
+maiorNumeroProcurador -> Uma função que recebe uma matriz e retorna o maior número dela.
+
 numeroFatorial -> Uma função que calcula o fatorial de qualquer número positivo, retornando -1 se ele for menor que zero.
 
 
