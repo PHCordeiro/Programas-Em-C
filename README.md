@@ -33,7 +33,7 @@ pessoasPorSexo -> Um programa que usa Struct para guardar as informações das p
 
 numeroPerfeito -> Uma função que recebe um número e diz se ele é perfeito ou não.
 
-numeroFatorial -> Uma função que calcula o fatorial de qualquer número.
+numeroFatorial -> Uma função que calcula o fatorial de qualquer número positivo, retornando -1 se ele for menor que zero.
 
 
 
