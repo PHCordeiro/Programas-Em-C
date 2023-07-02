@@ -29,4 +29,6 @@ inverteVetor -> Programa que cria um vetor e cria a sua versão de trás para fr
 
 produtos -> Um programa que cria um vetor para os preços de vários produtos e depois retorna certos indicadores.
 
+pessoasPorSexo -> Um programa que usa Struct para guardar as informações das pessoas e no final retorna todas as mulheres e todos os homens.
+
 
