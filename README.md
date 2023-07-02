@@ -7,4 +7,6 @@ programaMultiplos.c -> Retorna a soma de todos os multiplos de 3 e de 5 que são
 
 multiplicacaoSoma -> Permite a multiplicação entre dois números, mas utilizando apenas soma.
 
-crescimentoPopulacao -> Quanto tempo demora para a população do País A se tornar igual a do País B
+crescimentoPopulacao -> Quanto tempo demora para a população do País A se tornar igual a do País B.
+
+numeroFatorial -> Calcula o fatorial de um número digitado.
