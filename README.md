@@ -27,3 +27,6 @@ printLetra -> Um programa que recebe uma palavra e printa uma letra em cada linh
 
 inverteVetor -> Programa que cria um vetor e cria a sua versão de trás para frente.
 
+produtos -> Um programa que cria um vetor para os preços de vários produtos e depois retorna certos indicadores.
+
+
