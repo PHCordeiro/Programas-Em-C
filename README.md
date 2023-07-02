@@ -39,5 +39,5 @@ maiorNumeroProcurador -> Uma função que recebe uma matriz e retorna o maior n�
 
 numeroFatorial -> Uma função que calcula o fatorial de qualquer número positivo, retornando -1 se ele for menor que zero.
 
-
+embaralhaPalavras -> Uma função que gera um novo anagrama da palavra sempre que é executado.
 
