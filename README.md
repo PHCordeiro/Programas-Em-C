@@ -10,3 +10,5 @@ multiplicacaoSoma -> Permite a multiplicação entre dois números, mas utilizan
 crescimentoPopulacao -> Quanto tempo demora para a população do País A se tornar igual a do País B.
 
 numeroFatorial -> Calcula o fatorial de um número digitado.
+
+divisoresNumero -> Um programa que retorna os divisores de um número e indica se ele é primo ou não.
