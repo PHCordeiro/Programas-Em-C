@@ -12,3 +12,7 @@ crescimentoPopulacao -> Quanto tempo demora para a população do País A se tor
 numeroFatorial -> Calcula o fatorial de um número digitado.
 
 divisoresNumero -> Um programa que retorna os divisores de um número e indica se ele é primo ou não.
+
+maior_menor_numeros -> Recebe uma lista de números e, ao final, retorna qual foi o maior e qual foi o menor dos números.
+
+
