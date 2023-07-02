@@ -25,5 +25,5 @@ menorPalavra -> Recebe duas palavras e retorna a menor.
 
 printLetra -> Um programa que recebe uma palavra e printa uma letra em cada linha.
 
-
+inverteVetor -> Programa que cria um vetor e cria o seu vetor inverso.
 
