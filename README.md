@@ -23,5 +23,7 @@ pessoas -> Um programa que trabalha com Vetores para pegar o nome e o sexo de ce
 
 menorPalavra -> Recebe duas palavras e retorna a menor.
 
+printLetra -> Um programa que recebe uma palavra e printa uma letra em cada linha.
+
 
 
