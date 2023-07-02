@@ -17,6 +17,8 @@ maior_menor_numeros -> Recebe uma lista de números e, ao final, retorna qual fo
 
 banco -> Um programa que simula uma aplicação bancaria, permitindo o deposito, retirada e visualização de dinheiro, além de uma opção para sair.
 
+areas -> Permite o usuário escolher qual área calcular ao por certas medidas.
+
 
 
 
